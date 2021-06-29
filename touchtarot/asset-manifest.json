@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/touchtarot/static/css/main.e1a3bd83.chunk.css",
-    "main.js": "/touchtarot/static/js/main.5c90c4d5.chunk.js",
-    "main.js.map": "/touchtarot/static/js/main.5c90c4d5.chunk.js.map",
+    "main.js": "/touchtarot/static/js/main.da26db32.chunk.js",
+    "main.js.map": "/touchtarot/static/js/main.da26db32.chunk.js.map",
     "runtime-main.js": "/touchtarot/static/js/runtime-main.884b29b1.js",
     "runtime-main.js.map": "/touchtarot/static/js/runtime-main.884b29b1.js.map",
     "static/css/2.56e33495.chunk.css": "/touchtarot/static/css/2.56e33495.chunk.css",
     "static/js/2.d510e538.chunk.js": "/touchtarot/static/js/2.d510e538.chunk.js",
     "static/js/2.d510e538.chunk.js.map": "/touchtarot/static/js/2.d510e538.chunk.js.map",
     "index.html": "/touchtarot/index.html",
-    "precache-manifest.1e663013c2652353ff140e6b5917a13f.js": "/touchtarot/precache-manifest.1e663013c2652353ff140e6b5917a13f.js",
+    "precache-manifest.4f0f8ffd355fc61deafbb120761f3ca7.js": "/touchtarot/precache-manifest.4f0f8ffd355fc61deafbb120761f3ca7.js",
     "service-worker.js": "/touchtarot/service-worker.js",
     "static/css/2.56e33495.chunk.css.map": "/touchtarot/static/css/2.56e33495.chunk.css.map",
     "static/css/main.e1a3bd83.chunk.css.map": "/touchtarot/static/css/main.e1a3bd83.chunk.css.map",
@@ -99,6 +99,6 @@
     "static/css/2.56e33495.chunk.css",
     "static/js/2.d510e538.chunk.js",
     "static/css/main.e1a3bd83.chunk.css",
-    "static/js/main.5c90c4d5.chunk.js"
+    "static/js/main.da26db32.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0340dcd8afb89ff3fd77737d0ecc99c",
+    "revision": "ecdd3741522359b80c276eb6afe3d529",
     "url": "/touchtarot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/touchtarot/static/css/2.56e33495.chunk.css"
   },
   {
-    "revision": "fdf4ce34362487d78a82",
+    "revision": "309c4cc380bc802045c2",
     "url": "/touchtarot/static/css/main.e1a3bd83.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/touchtarot/static/js/2.d510e538.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdf4ce34362487d78a82",
-    "url": "/touchtarot/static/js/main.5c90c4d5.chunk.js"
+    "revision": "309c4cc380bc802045c2",
+    "url": "/touchtarot/static/js/main.da26db32.chunk.js"
   },
   {
     "revision": "003a38e836339040b872",
