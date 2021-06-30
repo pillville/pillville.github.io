@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/touchtarot/static/css/main.e1a3bd83.chunk.css",
+    "main.css": "/touchtarot/static/css/main.f33b1d53.chunk.css",
     "main.js": "/touchtarot/static/js/main.da26db32.chunk.js",
     "main.js.map": "/touchtarot/static/js/main.da26db32.chunk.js.map",
     "runtime-main.js": "/touchtarot/static/js/runtime-main.884b29b1.js",
@@ -9,10 +9,10 @@
     "static/js/2.d510e538.chunk.js": "/touchtarot/static/js/2.d510e538.chunk.js",
     "static/js/2.d510e538.chunk.js.map": "/touchtarot/static/js/2.d510e538.chunk.js.map",
     "index.html": "/touchtarot/index.html",
-    "precache-manifest.4f0f8ffd355fc61deafbb120761f3ca7.js": "/touchtarot/precache-manifest.4f0f8ffd355fc61deafbb120761f3ca7.js",
+    "precache-manifest.0a661c9e198cc61b15fca4964a7d88b3.js": "/touchtarot/precache-manifest.0a661c9e198cc61b15fca4964a7d88b3.js",
     "service-worker.js": "/touchtarot/service-worker.js",
     "static/css/2.56e33495.chunk.css.map": "/touchtarot/static/css/2.56e33495.chunk.css.map",
-    "static/css/main.e1a3bd83.chunk.css.map": "/touchtarot/static/css/main.e1a3bd83.chunk.css.map",
+    "static/css/main.f33b1d53.chunk.css.map": "/touchtarot/static/css/main.f33b1d53.chunk.css.map",
     "static/js/2.d510e538.chunk.js.LICENSE.txt": "/touchtarot/static/js/2.d510e538.chunk.js.LICENSE.txt",
     "static/media/ar00.jpg": "/touchtarot/static/media/ar00.e0c252b0.jpg",
     "static/media/ar01.jpg": "/touchtarot/static/media/ar01.ac8aa06b.jpg",
@@ -36,7 +36,7 @@
     "static/media/ar19.jpg": "/touchtarot/static/media/ar19.da280937.jpg",
     "static/media/ar20.jpg": "/touchtarot/static/media/ar20.c169e0db.jpg",
     "static/media/ar21.jpg": "/touchtarot/static/media/ar21.6b948404.jpg",
-    "static/media/custom.css": "/touchtarot/static/media/background.707c06c2.png",
+    "static/media/custom.css": "/touchtarot/static/media/background.13d9259b.png",
     "static/media/cu02.jpg": "/touchtarot/static/media/cu02.0c3e4acc.jpg",
     "static/media/cu03.jpg": "/touchtarot/static/media/cu03.e0430830.jpg",
     "static/media/cu04.jpg": "/touchtarot/static/media/cu04.9147037f.jpg",
@@ -98,7 +98,7 @@
     "static/js/runtime-main.884b29b1.js",
     "static/css/2.56e33495.chunk.css",
     "static/js/2.d510e538.chunk.js",
-    "static/css/main.e1a3bd83.chunk.css",
+    "static/css/main.f33b1d53.chunk.css",
     "static/js/main.da26db32.chunk.js"
   ]
 }
