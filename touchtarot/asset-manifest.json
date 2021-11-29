@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/touchtarot/static/css/main.f33b1d53.chunk.css",
-    "main.js": "/touchtarot/static/js/main.da26db32.chunk.js",
-    "main.js.map": "/touchtarot/static/js/main.da26db32.chunk.js.map",
+    "main.css": "/touchtarot/static/css/main.55b17dc5.chunk.css",
+    "main.js": "/touchtarot/static/js/main.e5c56bb8.chunk.js",
+    "main.js.map": "/touchtarot/static/js/main.e5c56bb8.chunk.js.map",
     "runtime-main.js": "/touchtarot/static/js/runtime-main.884b29b1.js",
     "runtime-main.js.map": "/touchtarot/static/js/runtime-main.884b29b1.js.map",
     "static/css/2.56e33495.chunk.css": "/touchtarot/static/css/2.56e33495.chunk.css",
-    "static/js/2.d510e538.chunk.js": "/touchtarot/static/js/2.d510e538.chunk.js",
-    "static/js/2.d510e538.chunk.js.map": "/touchtarot/static/js/2.d510e538.chunk.js.map",
+    "static/js/2.8e02dcd6.chunk.js": "/touchtarot/static/js/2.8e02dcd6.chunk.js",
+    "static/js/2.8e02dcd6.chunk.js.map": "/touchtarot/static/js/2.8e02dcd6.chunk.js.map",
     "index.html": "/touchtarot/index.html",
-    "precache-manifest.0a661c9e198cc61b15fca4964a7d88b3.js": "/touchtarot/precache-manifest.0a661c9e198cc61b15fca4964a7d88b3.js",
+    "precache-manifest.cc1ecbe33b3b6b86787a1c23c5c52243.js": "/touchtarot/precache-manifest.cc1ecbe33b3b6b86787a1c23c5c52243.js",
     "service-worker.js": "/touchtarot/service-worker.js",
     "static/css/2.56e33495.chunk.css.map": "/touchtarot/static/css/2.56e33495.chunk.css.map",
-    "static/css/main.f33b1d53.chunk.css.map": "/touchtarot/static/css/main.f33b1d53.chunk.css.map",
-    "static/js/2.d510e538.chunk.js.LICENSE.txt": "/touchtarot/static/js/2.d510e538.chunk.js.LICENSE.txt",
+    "static/css/main.55b17dc5.chunk.css.map": "/touchtarot/static/css/main.55b17dc5.chunk.css.map",
+    "static/js/2.8e02dcd6.chunk.js.LICENSE.txt": "/touchtarot/static/js/2.8e02dcd6.chunk.js.LICENSE.txt",
     "static/media/ar00.jpg": "/touchtarot/static/media/ar00.e0c252b0.jpg",
     "static/media/ar01.jpg": "/touchtarot/static/media/ar01.ac8aa06b.jpg",
     "static/media/ar02.jpg": "/touchtarot/static/media/ar02.3d2d0ad3.jpg",
@@ -97,8 +97,8 @@
   "entrypoints": [
     "static/js/runtime-main.884b29b1.js",
     "static/css/2.56e33495.chunk.css",
-    "static/js/2.d510e538.chunk.js",
-    "static/css/main.f33b1d53.chunk.css",
-    "static/js/main.da26db32.chunk.js"
+    "static/js/2.8e02dcd6.chunk.js",
+    "static/css/main.55b17dc5.chunk.css",
+    "static/js/main.e5c56bb8.chunk.js"
   ]
 }
