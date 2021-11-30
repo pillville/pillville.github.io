@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/touchtarot/precache-manifest.a58ce5466db87d27651e03da45526ebf.js"
+  "/touchtarot/precache-manifest.a7f4cf3a4f1ed3bc41fc5112961c777c.js"
 );
 
 self.addEventListener('message', (event) => {
